@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">See KT</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="my_desc">Foods I like: Ice cream
+    \n
+    \nHobbies : Badminton, play computer games, and watching movie etc
+    \n
+        \nEducation:
+        \n\tSRJK Cheng Siew
+    \n\tSM Kolam Air
+    \n\tTAR UC
+    \n\tLiverpool John Moores
+    \n\tMultimedia University
+    \n
+    \nWorking Experiences:
+    \n\tMaxigrid Sdn Bhd
+    \n\tTAR UC
+    \n</string>
+</resources>
